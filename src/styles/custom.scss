@@ -1,0 +1,11 @@
+// All custom sass
+$base-color: blue;
+
+h1 {
+  color: $base-color;
+}
+
+.delete-it {
+  font-weight: bolder;
+  color: red;
+}
